@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.jpg" width="100%" alt="GitHub Matrix Banner" />
+  <img src="./github-banner.jpg" width="100%" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakshami Singh</h1>
@@ -18,7 +18,7 @@
       <p>My goal is simple: write clean code, craft intuitive designs, and build web solutions that deliver real impact.</p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="./download.jpg" width="100%" alt="Debugging Vibe - Hello Kitty" />
+      <img src="./astronaut.jpg" width="100%" alt="Floating Astronaut" />
     </td>
   </tr>
 </table>
