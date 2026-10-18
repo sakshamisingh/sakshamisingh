@@ -78,8 +78,9 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamisingh&show_icons=true&theme=dark&hide_border=true&count_private=true" width="80%" alt="Sakshami's Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamisingh&theme=github-dark&hide_border=true&area=true" width="100%" alt="Sakshami's Contribution Graph" />
 </p>
+
 ---
 
 ### 📊 GitHub Statistics
