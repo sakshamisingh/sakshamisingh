@@ -9,16 +9,21 @@
 
 ### 🚀 About Me
 
-<table>
+<!-- Replace your current "About Me" table with this -->
+<table align="center" style="border: none; margin: 0; padding: 0;">
   <tr>
-    <td width="60%" valign="top">
+    <!-- Text Column -->
+    <td width="60%" valign="top" style="border: none; padding: 0; vertical-align: top;">
+      <h2>🚀 About Me</h2>
       <p><b>Sakshami, Here —</b> a Computer Engineering student and passionate frontend developer from India 🇮🇳</p>
       <p>I enjoy building responsive, user-centric web interfaces using <b>React.js, JavaScript, and Tailwind CSS</b>, while constantly expanding my full-stack skills across modern backend and database platforms.</p>
       <p>Currently, I'm working with <b>React Native, TypeScript, Node.js, and Supabase</b>, while sharpening my problem-solving skills through Data Structures & Algorithms.</p>
       <p>My goal is simple: write clean code, craft intuitive designs, and build web solutions that deliver real impact.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./astronaut.jpg" width="100%" alt="Floating Astronaut" />
+    <!-- Image Column (Cropped/Resized to match) -->
+    <td width="40%" align="center" valign="middle" style="border: none; padding: 0; vertical-align: middle;">
+      <!-- IMPORTANT: Add the height="340px" attribute below -->
+      <img src="./astronaut.jpg" height="340px" alt="Floating Astronaut Resized" />
     </td>
   </tr>
 </table>
