@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/6P0x0s3/download.jpg" width="380" alt="Debugging Vibe - Hello Kitty on Fire" />
+  <img src="./download.jpg" width="380" alt="Debugging Vibe - Hello Kitty on Fire" />
 </p>
 
 <p align="center">
