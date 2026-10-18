@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.jpg" width="100%" alt="GitHub Banner" />
+  <img src="./Cute Astronaut Wallpaper _ Minimalist Black Dark Mode Background.jpg" width="100%" alt="Waving Astronaut Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakshami Singh</h1>
@@ -7,12 +7,8 @@
 
 ---
 
-### 🚀 About Me
-
-<!-- Replace your current "About Me" table with this -->
 <table align="center" style="border: none; margin: 0; padding: 0;">
   <tr>
-    <!-- Text Column -->
     <td width="60%" valign="top" style="border: none; padding: 0; vertical-align: top;">
       <h2>🚀 About Me</h2>
       <p><b>Sakshami, Here —</b> a Computer Engineering student and passionate frontend developer from India 🇮🇳</p>
@@ -20,10 +16,8 @@
       <p>Currently, I'm working with <b>React Native, TypeScript, Node.js, and Supabase</b>, while sharpening my problem-solving skills through Data Structures & Algorithms.</p>
       <p>My goal is simple: write clean code, craft intuitive designs, and build web solutions that deliver real impact.</p>
     </td>
-    <!-- Image Column (Cropped/Resized to match) -->
     <td width="40%" align="center" valign="middle" style="border: none; padding: 0; vertical-align: middle;">
-      <!-- IMPORTANT: Add the height="340px" attribute below -->
-      <img src="./astronaut.jpg" height="340px" alt="Floating Astronaut Resized" />
+      <img src="./astronaut.jpg" height="340px" alt="Floating Astronaut" />
     </td>
   </tr>
 </table>
