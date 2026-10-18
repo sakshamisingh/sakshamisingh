@@ -1,15 +1,27 @@
+<p align="center">
+  <img src="./github-banner.jpg" width="100%" alt="GitHub Matrix Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sakshami Singh</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">Building responsive web interfaces and modern digital experiences.</h3>
 
-<p align="center">
-  <img src="./download.jpg" width="380" alt="Debugging Vibe - Hello Kitty on Fire" />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sakshamisingh&theme=onedark" alt="sakshamisingh trophies" />
-  </a>
-</p>
+### 🚀 About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p><b>Sakshami, Here —</b> a Computer Engineering student and passionate frontend developer from India 🇮🇳</p>
+      <p>I enjoy building responsive, user-centric web interfaces using <b>React.js, JavaScript, and Tailwind CSS</b>, while constantly expanding my full-stack skills across modern backend and database platforms.</p>
+      <p>Currently, I'm working with <b>React Native, TypeScript, Node.js, and Supabase</b>, while sharpening my problem-solving skills through Data Structures & Algorithms.</p>
+      <p>My goal is simple: write clean code, craft intuitive designs, and build web solutions that deliver real impact.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./download.jpg" width="100%" alt="Debugging Vibe - Hello Kitty" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,7 +44,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 💻 Featured Projects
 
 | Project | Live Demo | Description |
 | :--- | :---: | :--- |
@@ -58,16 +70,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 
 ---
