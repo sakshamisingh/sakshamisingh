@@ -78,7 +78,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamisingh&theme=github-dark&hide_border=true&area=true" width="100%" alt="Sakshami's Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/sakshamisingh/sakshamisingh/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Contribution Graph" width="100%" />
 </p>
 
 ---
